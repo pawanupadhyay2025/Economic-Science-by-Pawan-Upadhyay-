@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17737233.svg)](https://doi.org/10.5281/zenodo.17737233)
 
 
+
 # Economic Science by Pawan Upadhyay — The Best Economy Model
 
 This repository presents “Economic Science by Pawan Upadhyay,” a comprehensive and balanced economic framework built on the combined strength of Domestic Consumption and Export-Driven Growth. This model defines the foundation of a stable, resilient, and growth-oriented national economy capable of withstanding both internal and external shocks.
@@ -172,12 +173,7 @@ Pawan Upadhyay
 📧 pawanupadhyay28@hotmail.com
 
 
-### BibTeX
+### 📚 Citation
 
-@article{upadhyay2025futurecashinflow,
-  title={Future Cash Inflow Theory},
-  author={Upadhyay, Pawan},
-  year={2025},
-  publisher={Zenodo},
-  doi={10.5281/zenodo.17737233}
-}
+Upadhyay, P. (2025). *New economic science by Pawan Upadhyay*. Zenodo.  
+DOI: https://doi.org/10.5281/zenodo.17737233
