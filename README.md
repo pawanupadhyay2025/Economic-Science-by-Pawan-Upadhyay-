@@ -1,4 +1,3 @@
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17737233.svg)](https://doi.org/10.5281/zenodo.17737233)
 
 
@@ -172,3 +171,13 @@ It is suitable for students, researchers, economists, and policymakers.
 Pawan Upadhyay
 📧 pawanupadhyay28@hotmail.com
 
+
+### BibTeX
+
+@article{upadhyay2025futurecashinflow,
+  title={Future Cash Inflow Theory},
+  author={Upadhyay, Pawan},
+  year={2025},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.17737233}
+}
