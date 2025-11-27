@@ -6,7 +6,7 @@ At the core of this framework is the principle that a nation must cultivate a so
 
 The model emphasizes that economic strength is not dependent on a single variable, but on the coordinated functioning of multiple factors:
 
-Key Components of the Model
+Key Components of the Model :-
 
 Domestic Consumption + Export: The two main drivers of national growth.
 
@@ -23,13 +23,13 @@ Cash Inflow vs. Outflow: Increasing foreign exchange inflow and reducing unneces
 Savings & Reserves: National savings act as a shield during inflation spikes, droughts, or global recessions.
 
 
-Insights on Export Dynamics
+Insights on Export Dynamics :-
 
 The model explains how companies profit even with a strong currency by increasing export quantity or reducing production costs through cheaper imports.
 Profit = Earning − Expenditure
 A strong currency lowers import costs, increasing profit margins and making the economy more efficient.
 
-Purpose of This Repository
+Purpose of This Repository :-
 
 This GitHub repository documents the complete economic model, provides theoretical foundations, and offers policymakers, students, and researchers a structured approach to understanding sustainable economic development.
 
@@ -42,7 +42,7 @@ A Balanced and Resilient Economic Growth Model
 This repository presents “Economic Science by Pawan Upadhyay,” a comprehensive economic framework built on the dual strength of Domestic Consumption and Export-Driven Growth. The model outlines how nations can achieve long-term stability, strong financial health, and sustainable growth by balancing internal demand with external trade performance.
 
 
-📌 Key Principles of the Model
+📌 Key Principles of the Model :-
 
 1. Domestic Consumption + Export = Best Economy
 
