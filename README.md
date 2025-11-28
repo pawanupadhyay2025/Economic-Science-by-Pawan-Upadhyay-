@@ -167,7 +167,7 @@ Real-world economic logic
 It is suitable for students, researchers, economists, and policymakers.
 
 
-✍️ Author and Independent Researcher
+# ✍️ Author and Independent Researcher
 
 Pawan Upadhyay
 
