@@ -175,6 +175,4 @@ Pawan Upadhyay
 
 
 ### 📚 Citation
-
-Upadhyay, P. (2025). *New economic science by Pawan Upadhyay*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.17737233
+Upadhyay, P. K. (2025). New Economic Science by Pawan Upadhyay. https://doi.org/10.5281/zenodo.17737233
