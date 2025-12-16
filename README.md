@@ -169,10 +169,16 @@ It is suitable for students, researchers, economists, and policymakers.
 
 # ✍️ Author and Independent Researcher
 
-Pawan Upadhyay
+# Pawan Upadhyay
 
 📧 pawanupadhyay28@hotmail.com
 
 
 ### 📚 Citation
 Upadhyay, P.(2025). New Economic Science by Pawan Upadhyay. https://doi.org/10.5281/zenodo.17737233
+
+# Discoveries by Pawan Upadhyay
+
+Official research page:
+
+🔗 https://sites.google.com/view/discoveriesbypawanupadhyay/research-projects
