@@ -1,3 +1,7 @@
+
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F2VH6S-blue.svg)](https://doi.org/10.17605/OSF.IO/2VH6S)
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17737233.svg)](https://doi.org/10.5281/zenodo.17737233)
 
 
