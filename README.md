@@ -178,6 +178,8 @@ It is suitable for students, researchers, economists, and policymakers.
 
 📧 pawanupadhyay28@hotmail.com
 
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F2VH6S-blue.svg)](https://doi.org/10.17605/OSF.IO/2VH6S)
+
 
 ### 📚 Citation
 Upadhyay, P.(2025). New Economic Science by Pawan Upadhyay. https://doi.org/10.5281/zenodo.17737233
