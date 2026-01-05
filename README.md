@@ -2,9 +2,6 @@
 [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F2VH6S-blue.svg)](https://doi.org/10.17605/OSF.IO/2VH6S)
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17737233.svg)](https://doi.org/10.5281/zenodo.17737233)
-
-
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9077--5924-A6CE39?logo=orcid)](https://orcid.org/0009-0007-9077-5924)
 
 [![Internet Archive](https://img.shields.io/badge/Archive-Economic%20Science-blue?logo=internetarchive)](https://archive.org/details/economic-science-by-pawan-upadhyay)
@@ -182,9 +179,6 @@ It is suitable for students, researchers, economists, and policymakers.
 
 [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F2VH6S-blue.svg)](https://doi.org/10.17605/OSF.IO/2VH6S)
 
-
-### 📚 Citation
-Upadhyay, P.(2025). New Economic Science by Pawan Upadhyay. https://doi.org/10.5281/zenodo.17737233
 
 # Discoveries by Pawan Upadhyay
 
